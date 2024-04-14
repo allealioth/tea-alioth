@@ -1,0 +1,2 @@
+# tea-alioth
+tea testnet
